@@ -1,0 +1,6 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "鸿蒙基础示例模块" },
+    { "name": "ability_desc", "value": "鸿蒙 Demo 主入口" }
+  ]
+}

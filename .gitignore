@@ -1,0 +1,21 @@
+# DevEco / SDK local paths and generated files
+.idea/
+.hvigor/
+oh_modules/
+build/
+**/build/
+local.properties
+*.hap
+*.app
+*.hsp
+# Signing material must remain local
+*.p12
+*.pfx
+*.cer
+*.p7b
+*.keystore
+signing/
+# OS and validation cache
+.DS_Store
+Thumbs.db
+__pycache__/
